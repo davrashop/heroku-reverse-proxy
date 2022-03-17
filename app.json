@@ -5,7 +5,7 @@
 		"reverse proxy",
 		"nginx"
 	],
-	"repository": "https://github.com/cwarden/heroku-reverse-proxy",
+	"repository": "https://github.com/davrashop/heroku-reverse-proxy",
 	"buildpacks": [
 		{
 			"url": "http://github.com/leafo/heroku-buildpack-lua.git"
